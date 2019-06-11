@@ -245,3 +245,6 @@ public function cartones() {
       [new Carton((new FabricaCarton)->generarCarton())]
     ];
 }
+
+$prueba=new FabricaCartones;
+$prueba->generarCarton();
