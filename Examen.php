@@ -247,4 +247,4 @@ public function cartones() {
 }
 
 $prueba=new FabricaCartones;
-$prueba->generarCarton();
+$prueba->intentoCarton();
